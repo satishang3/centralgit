@@ -7,3 +7,24 @@ AWS - loadbalancer,autoscaling,ec2
 Linux general,dir,file,permission n all
 Git - add , commit ,push and pull
 
+
+achha to this is push push karne ka traika ye hai ki
+sabse phele humain sudo su, yum install git -y,
+git config --global user.name "sadfd"
+git config user.email"xyz@gmail.com"
+git confi --list 
+cd mumbai git
+git init
+ls -a
+vi file
+esc :wq
+git add .
+git status
+git show log
+git log
+git show commit id
+git remote add origin link
+git remote -v
+git branch 
+git branch -M ssss
+git push origin main
